@@ -1,6 +1,7 @@
 #include "s_shell.h"
 
 /**
+ * main - entry point of the project
  * interactive - returns true if shell is in the interactive mode
  * @info: struct address
  *
